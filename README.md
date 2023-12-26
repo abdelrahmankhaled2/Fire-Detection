@@ -2,7 +2,7 @@
 # Fire Detection System
 
 ## Overview
-This repository contains code for a fire detection system using image processing and deep learning techniques. The project aims to classify images into two categories: fire and non-fire. The code is organized into several sections, including data preprocessing, image segmentation, feature extraction, model training, and evaluation.
+This repository contains code for a fire detection system using image processing and deep learning techniques. The project aims to classify images into two categories: fire and non-fire. The code is organized into several sections, including data preprocessing, image segmentation, feature extraction, classification,model training, and evaluation.
 
 ## Features
 
